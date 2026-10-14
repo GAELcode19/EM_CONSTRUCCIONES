@@ -37,3 +37,6 @@ yarn-error.log
 /boost.json
 /opencode.json
 /opencode.jsonc
+
+# Fotos originales del cliente (respaldo local, no se suben)
+/resources/images-originales
